@@ -1,5 +1,5 @@
-## NAME: HANIEL REENA D R
-## REG NO: 2305001008
+## NAME: NITHYA T
+## REG NO: 2305001023
 
 # PCA-Simple-warp-divergence---Implement-Sum-Reduction.
 Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16, in which each thread handles 16 data blocks. Compare kernel performance with reduceUnrolling8 and use the proper metrics and events with nvprof to explain any difference in performance.
